@@ -1,4 +1,4 @@
-1 - Crear una vista personalitzada.
+# 1 - Crear una vista personalitzada.
 
 ![Imatge 1](vista-personalitzada-1.png)
 1.1 - Fem clic a Crear vista personalizada.
