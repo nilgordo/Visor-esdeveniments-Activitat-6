@@ -12,3 +12,7 @@ Quan un usuari iniciï sessió l'esdeveniment executarà un programa de Windows.
 ![Image 6](vista-personalitzada-6.png)
 
 2.2 - Li donem a Siguiente.
+
+![Image 7](vista-personalitzada-7.png)
+
+2.2 - Seleccionem Iniciar un programa i li donem a Siguiente.
