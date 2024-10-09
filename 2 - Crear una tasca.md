@@ -13,10 +13,10 @@ Quan un usuari iniciï sessió l'esdeveniment executarà un programa de Windows.
 
 2.2 - Li donem a Siguiente.
 
-![Image 7](tasca-4.png.png)
+![Image 7](tasca-4.png)
 
 2.2 - Seleccionem Iniciar un programa i li donem a Siguiente.
 
-![Image 8](tasca-5.png.png)
+![Image 8](tasca-5.png)
 
 2.3 - Seleccionem un programa i li donem a Siguiente.
