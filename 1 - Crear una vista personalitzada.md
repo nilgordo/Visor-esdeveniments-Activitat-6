@@ -5,8 +5,7 @@
 
 ![Imatge 2](vista-personalitzada-2.png)
 
-1.2 - Fiquem els parametres que volguem en el meu cas com es veu en pantalla:
+1.2 - Fiquem els parametres que volguem i fem clic a Aceptar en el meu cas com es veu en pantalla:
 - Ultimes 24h
 - Por registro > Registros de Windows
 - He ficat el id de Login correcte i Login incorrecte
-  I fem clic a Aceptar
