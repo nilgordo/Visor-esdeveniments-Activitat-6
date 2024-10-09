@@ -9,3 +9,7 @@
 ![Image 2](importar-2.png)
 
 4.3 - Seleccionem el fitxer al PC que volem ficar la vista personalitzada.
+
+![Image 3](importar-3.png)
+
+4.4 - Li donem a Aceptar.
