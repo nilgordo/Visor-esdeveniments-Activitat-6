@@ -23,4 +23,4 @@ Quan un usuari iniciï sessió l'esdeveniment executarà un programa de Windows.
 
 ![Image 9](tasca-6.png)
 
-2.3 - Li donem a Siguiente.
+2.3 - Li donem a Finalizar.
