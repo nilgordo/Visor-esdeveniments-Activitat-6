@@ -9,4 +9,4 @@
 - Ultimes 24h
 - Por registro > Registros de Windows
 - He ficat el id de Login correcte i Login incorrecte
-I fem clic a Aceptar
+  I fem clic a Aceptar
