@@ -9,3 +9,7 @@
 - Ultimes 24h
 - Por registro > Registros de Windows
 - He ficat el id de Login correcte i Login incorrecte
+
+![Imatge 3](vista-personalitzada-3.png)
+
+1.3 - Introduim el nom i la descripció que li volem assignar i li donem a Aceptar.
